@@ -1,0 +1,10 @@
+< span  class = "n" > http_path < / span >   < span  class = "o" >= < / span >   < span  class = "s2" > "/themes/mytheme" < / span > 
+ < span  class = "n" > css_dir < / span >   < span  class = "o" >= < / span >   < span  class = "s2" > "css" < / span > 
+ < span  class = "n" > sass_dir < / span >   < span  class = "o" >= < / span >   < span  class = "s2" > "assets/sass" < / span > 
+ < span  class = "n" > images_dir < / span >   < span  class = "o" >= < / span >   < span  class = "s2" > "assets/images" < / span > 
+ < span  class = "n" > javascripts_dir < / span >   < span  class = "o" >= < / span >   < span  class = "s2" > "js" < / span > 
+ < span  class = "n" > fonts_dir < / span >   < span  class = "o" >= < / span >   < span  class = "s2" > "bootstrap/fonts/bootstrap" < / span > 
+ < span  class = "n" > generated_images_dir < / span >   < span  class = "o" >= < / span >   < span  class = "s2" > "img" < / span > 
+ < span  class = "n" > http_images_path < / span >   < span  class = "o" >= < / span >   < span  class = "n" > http_path < / span >   < span  class = "o" > + < / span >   < span  class = "s2" > "/" < / span >   < span  class = "o" > + < / span >   < span  class = "n" > generated_images_dir < / span > 
+ < span  class = "n" > http_generated_images_path < / span >   < span  class = "o" >= < / span >   < span  class = "n" > http_images_path < / span > 
+ < span  class = "n" > output_style < / span >   < span  class = "o" >= < / span >   < span  class = "p" > ( < / span > < span  class = "n" > environment < / span >   < span  class = "o" >= = < / span >   < span  class = "ss" > : production < / span > < span  class = "p" > ) < / span >   < span  class = "p" > ? < / span >   < span  class = "ss" > : compressed < / span >   < span  class = "p" > : < / span >   < span  class = "ss" > : expanded < / span > 
